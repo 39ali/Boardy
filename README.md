@@ -1,1 +1,3 @@
 # Boardy
+
+Simple drawing app
